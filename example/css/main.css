@@ -1,0 +1,23 @@
+.title
+{
+	text-align:center;
+}
+
+.menu
+{
+	text-align:center;
+	color: #fff;
+}
+
+.center 
+{
+  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+}
