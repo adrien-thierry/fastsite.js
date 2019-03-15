@@ -4,7 +4,7 @@ Fast, small and simple Single Page Application framework
 
 # Install
 
-* Just include fastsite.js or fastsite.min.js 
+* Just include fastsite.js or fastsite.min.js at the end of your body : `<script src="/buid/fastsite.min.js"></script>`
 * Then, add attribute to your links : `app="myapp" app-view="#content"`
 
 # Example
